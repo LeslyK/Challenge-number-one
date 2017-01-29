@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--XMLHttpRequest_getXML.xml-->
+<root>
+
+      <client id="papa">
+          <nom>papa</nom>
+          <prenom>paps</prenom>
+          <old>39</old>
+          <profession>Electricien</profession>
+          <mail>paps@gmail.com</mail>
+          <adresse>0987654321</adresse>
+      </client>
+
+      <client id="JEAN">
+          <nom>JEAN</nom>
+          <prenom>JB</prenom>
+          <old>20</old>
+          <profession>Maçon</profession>
+          <mail>jb@gmail.com</mail>
+          <adresse>0695019283</adresse>
+      </client>
+
+      <client id="maman">
+          <nom>maman</nom>
+          <prenom>mams</prenom>
+          <old>30</old>
+          <profession>Programmeur</profession>
+          <mail>mamas@gmail.com</mail>
+          <adresse>0987654321</adresse>
+      </client>
+
+      <client id="marina">
+          <nom>marina</nom>
+          <prenom>marie</prenom>
+          <old>25</old>
+          <profession>Secretaire</profession>
+          <mail>mari@gmail.com</mail>
+          <adresse>3139938</adresse>
+      </client>
+
+      <client id="paul">
+          <nom>paul</nom>
+          <prenom>po</prenom>
+          <old>19</old>
+          <profession>Technicien</profession>
+          <mail>po@gmail.com</mail>
+          <adresse>0129384756</adresse>
+      </client>
+</root>
